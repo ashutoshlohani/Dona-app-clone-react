@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dona-clone/static/css/main.1376b9d0.css",
+    "main.js": "/dona-clone/static/js/main.870c4014.js",
+    "index.html": "/dona-clone/index.html",
+    "main.1376b9d0.css.map": "/dona-clone/static/css/main.1376b9d0.css.map",
+    "main.870c4014.js.map": "/dona-clone/static/js/main.870c4014.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1376b9d0.css",
+    "static/js/main.870c4014.js"
+  ]
+}
